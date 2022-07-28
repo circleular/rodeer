@@ -1,0 +1,17 @@
+C:\Users\jbart\source\repos\RoDeer\bin\Debug\RoDeer.exe.config
+C:\Users\jbart\source\repos\RoDeer\bin\Debug\RoDeer.exe
+C:\Users\jbart\source\repos\RoDeer\bin\Debug\RoDeer.pdb
+C:\Users\jbart\source\repos\RoDeer\bin\Debug\Override.exe
+C:\Users\jbart\source\repos\RoDeer\bin\Debug\RoTor.dll
+C:\Users\jbart\source\repos\RoDeer\bin\Debug\Override.pdb
+C:\Users\jbart\source\repos\RoDeer\bin\Debug\Override.exe.config
+C:\Users\jbart\source\repos\RoDeer\bin\Debug\RoTor.pdb
+C:\Users\jbart\source\repos\RoDeer\obj\Debug\RoDeer.csproj.AssemblyReference.cache
+C:\Users\jbart\source\repos\RoDeer\obj\Debug\RoDeer.RoDeerApp.resources
+C:\Users\jbart\source\repos\RoDeer\obj\Debug\RoDeer.OverrideSetting.resources
+C:\Users\jbart\source\repos\RoDeer\obj\Debug\RoDeer.Properties.Resources.resources
+C:\Users\jbart\source\repos\RoDeer\obj\Debug\RoDeer.csproj.GenerateResource.cache
+C:\Users\jbart\source\repos\RoDeer\obj\Debug\RoDeer.csproj.CoreCompileInputs.cache
+C:\Users\jbart\source\repos\RoDeer\obj\Debug\RoDeer.csproj.CopyComplete
+C:\Users\jbart\source\repos\RoDeer\obj\Debug\RoDeer.exe
+C:\Users\jbart\source\repos\RoDeer\obj\Debug\RoDeer.pdb
